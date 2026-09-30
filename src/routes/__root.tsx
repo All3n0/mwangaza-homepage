@@ -77,9 +77,9 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Mwangaza Institute" },
+      { title: "Geovani Capital Training" },
       { name: "description", content: "Short professional courses across Africa and live online." },
-      { name: "author", content: "Mwangaza Institute" },
+      { name: "author", content: "Geovani Capital Training" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
     ],

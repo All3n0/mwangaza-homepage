@@ -1,4 +1,4 @@
-export const INSTITUTE = { courseCount: 640, cityCount: 8, reviewCount: 312, trainerCount: 86, professionalsTrained: "1,900+", rating: "4.7 / 5", phone: "+254 700 000 000", phoneHref: "+254700000000", email: "hello@mwangazainstitute.org" } as const;
+export const INSTITUTE = { courseCount: 640, cityCount: 8, reviewCount: 312, trainerCount: 86, professionalsTrained: "1,900+", rating: "4.7 / 5", phone: "+254 700 000 000", phoneHref: "+254700000000", email: "info@geovanicapital.com" } as const;
 
 export const fields = [
   { name: "Monitoring, evaluation & learning", count: 98, examples: ["M&E for development programmes", "Results-based management", "Impact evaluation"] },
@@ -40,7 +40,7 @@ export const partners = ["Rift Valley Water Board", "Lake Region Health Trust", 
 export const faqs = [
   { q: "How do I pay?", a: "We accept organisation invoices, bank transfer, M-Pesa and card. Your confirmation includes the payment instructions and due date." },
   { q: "Do you help with visas and accommodation?", a: "Yes. International classroom participants receive invitation-letter support, hotel options and airport transfer coordination." },
-  { q: "Is the certificate recognised?", a: "Every participant receives a verifiable Mwangaza Institute certificate showing course hours and assessed learning outcomes." },
+  { q: "Is the certificate recognised?", a: "Every participant receives a verifiable Geovani Capital Training certificate showing course hours and assessed learning outcomes." },
   { q: "Can online and classroom participants join the same session?", a: "Selected hybrid sessions support both formats. The course page clearly marks these; other sessions are classroom-only or live online." },
   { q: "What is your cancellation and transfer policy?", a: "You may transfer to another date at no charge up to 14 days before a course. Later changes may incur committed venue costs." },
   { q: "Can you invoice a donor or our organisation directly?", a: "Yes. We can address an invoice to your organisation or donor and include purchase-order and grant references." },
